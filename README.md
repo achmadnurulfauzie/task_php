@@ -2,9 +2,9 @@
 
 # How to Run App
 ### Environment
-> PHP 8.1.12 (cli)
-> Composer version 2.5.4
-> Laravel Framework 10.5.1
+> - PHP 8.1.12 (cli)
+> - Composer version 2.5.4
+> - Laravel Framework 10.5.1
 
 ### Step by Step Run this App
 - Make file `.env` using command `cp .env.example .env`
